@@ -47,7 +47,7 @@ pipeline {
             // This will be always executed
         }
         success {
-
+            // what we want to do after success
         }
         failure {
 
